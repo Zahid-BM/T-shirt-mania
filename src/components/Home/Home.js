@@ -43,7 +43,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="col-3 p-3">
-                <Cart cartAsProps={cart} handleClearBtn={handleClearBtn} ></Cart>
+                <Cart cart={cart} handleClearBtn={handleClearBtn} ></Cart>
             </div>
         </div>
     );

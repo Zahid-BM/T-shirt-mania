@@ -1,6 +1,6 @@
 # T-shirt-mania
 
-Live website [netlify link](https://github.com/facebook/create-react-app).
+Live website [netlify link](https://t-shirt-mania-react-router.netlify.app/).
 
 ## About the website
 
